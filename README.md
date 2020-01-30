@@ -4,3 +4,6 @@
 民众心里安稳对于抗疫也非常重要。本次疫情每天有大量的小道消息，一个及时权威的信息发布平台很重要。
 
 In 2020, the new coronavirus epidemic in Wuhan exposed many problems, and it is urgent to use digital technology to build an epidemic information / resources coordination / public opinion processing platform. The core function of the platform is to collect epidemic situation and centralize overall use of medical resources. The nature of anti-epidemic is a race against viruses. After the outbreak of the epidemic, medical resources will inevitably be in short supply. This requires prior allocation of reserves and prioritization. And not like now this XX hospital sends out a call for help and then swarms. The experience from information platform to logistics is very suitable for epidemic prevention scenarios: the acquisition and delivery of massive urgent needs. People's peace of mind is also very important for fighting the epidemic. There is a lot of gossip about this epidemic every day. A timely and authoritative information release platform is very important.
+
+代码 code:
+https://github.com/cleanbing/WuhanWin
