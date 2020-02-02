@@ -19,3 +19,6 @@ In 2020, the new coronavirus epidemic in Wuhan exposed many problems, and it is 
 
 代码 code:
 https://github.com/cleanbing/WuhanWin
+
+网站website: 
+http://120.24.39.68/?from=singlemessage&isappinstalled=0
